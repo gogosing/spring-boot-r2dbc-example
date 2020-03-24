@@ -1,4 +1,4 @@
-# Spring Boot R2DBC Example Application.
+# Spring Boot R2DBC Documentation.
 1. see: [Getting Started](https://spring.io/guides/gs/accessing-data-r2dbc/)
 2. see: [gs-accessing-data-r2dbc](https://github.com/spring-guides/gs-accessing-data-r2dbc)
 3. see: [R2DBC](https://r2dbc.io/)
